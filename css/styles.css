@@ -181,4 +181,10 @@ main{
 
 .currency-table--container td{
     width: 50%;
+    font-size: 1.6rem;
+    font-weight: 500;
+    line-height: 1.9rem;
+    color: var(--grey);
+    background-color: var(--just-white);
 }
+
