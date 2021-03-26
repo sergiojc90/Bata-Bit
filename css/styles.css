@@ -444,7 +444,7 @@ main{
 .product-detail--card .check{
     display: inline-block;
     width: 20px;
-    height: 20px;
+    min-height: 20px;
     margin-bottom: 10px;
     background-image: url("/assets/icons/check-circle.svg");
     background-size: cover;
@@ -466,4 +466,23 @@ main{
     font-weight: 500;
     line-height: 1.8rem;
     color: #808080;
+}
+
+.bicoin-img-container{
+    width: 100%;
+    min-width: 320px;
+    height: 50vh;
+    background-image: url("/assets/img/bitcoinbaby2x.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bicoin-img-container h2{
+    padding-top: 60px;
+    font-size: 2.4rem;
+    font-weight: bold;
+    line-height: 2.6rem;
+    color: var(--just-white);
+    text-align: center;
 }
