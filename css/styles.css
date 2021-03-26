@@ -370,3 +370,9 @@ main{
     left: calc(50% - 20px);
     background-image: url("/assets/icons/batata.svg");
 }
+
+.product-detail--title{
+    width: 90%;
+    min-width: 288px;
+    height: auto;
+}
