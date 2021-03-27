@@ -149,7 +149,7 @@ main{
     color: #757575;
 }
 
-.main-tables-container{
+.main-tables-slider{
     display: flex;
     overflow-x: scroll;
     overscroll-behavior-x: contain;
