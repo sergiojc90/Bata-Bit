@@ -553,3 +553,21 @@ main{
     color: black;
 
 }
+
+.plan-card--price{
+    padding: 5px 0;
+    font-size: 5.3rem;
+    font-weight: bold;
+    color: black;
+}
+
+.plan-card--price span{
+    font-size: 1.2rem;
+    font-weight: 300;
+    vertical-align: 25px;
+}
+
+.plan-card--saving{
+    font-size: 1.2rem;
+    color: #757575;
+}
